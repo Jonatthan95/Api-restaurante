@@ -23,7 +23,7 @@
     "bcrypt": "^4.0.1",
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "express-joi-validation": "^4.0.3",
     "joi-extract-type": "^15.0.8",
     "jsonwebtoken": "^8.5.1",
@@ -32,7 +32,7 @@
     "pg-hstore": "^2.3.3",
     "reflect-metadata": "^0.1.13",
     "request": "^2.88.2",
-    "sequelize": "^5.22.3",
+    "sequelize": "^6.6.5",
     "sequelize-typescript": "^1.1.0",
     "uuid": "^7.0.3"
   },
